@@ -14,6 +14,5 @@ So here is **the Purified Windows 11** without Defender, Updater, Patches, Syste
 ## Download *.ova
 Due to the GitHub policy which doesn't allow upload file size > 25MB, thanks for the following people store the *.ova on their own site / cloud drive: 神楽坂宇軒(@russel053); To keep this project running, we also welcome more people to join this project and share this image.
 
-1. [Download](https://s3-tpe2-02.russel053.com/public/Purified-Windows11.ova) by ✨神楽坂宇軒(@russel053)✨
-2. [Backup Download](https://s3-tpe2-01.russel053.com/public/Purified-Windows11.ova) by ✨神楽坂宇軒(@russel053)✨
-3. [Amazon Download](https://adr-tool-share.s3.ap-northeast-1.amazonaws.com/Purified-Windows11.ova) by Anonymous
+1. [Download](https://s3-tpe2-01.russel053.com/public/Purified-Windows11.ova) by ✨神楽坂宇軒(@russel053)✨
+2. [Amazon Download](https://adr-tool-share.s3.ap-northeast-1.amazonaws.com/Purified-Windows11.ova) by Anonymous
